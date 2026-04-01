@@ -88,14 +88,15 @@ Full Stack Developer with expertise in the MERN stack, focused on building scala
 
 ---
 
+
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdayTeja21&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=UdayTeja21&show_icons=true&theme=radical&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayTeja21&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UdayTeja21&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 ---
 
