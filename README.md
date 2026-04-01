@@ -89,6 +89,7 @@ Full Stack Developer with expertise in the MERN stack, focused on building scala
 ---
 
 
+
 # 📊 GitHub Stats:
 
 <p align="center">
@@ -98,6 +99,9 @@ Full Stack Developer with expertise in the MERN stack, focused on building scala
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=UdayTeja21&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
+
+
+
 ---
 
 # 🏆 Achievements:
