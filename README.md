@@ -43,7 +43,7 @@ Full Stack Developer with expertise in the MERN stack, focused on building scala
 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
@@ -91,30 +91,12 @@ Full Stack Developer with expertise in the MERN stack, focused on building scala
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdayTeja21&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=UdayTeja21&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UdayTeja21&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=UdayTeja21&theme=radical&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayTeja21&theme=radical&hide_border=true&layout=compact" height="150em"/>
-</p>
-
----
-
-## 🚀 Contribution Insights:
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UdayTeja21&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UdayTeja21&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UdayTeja21&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UdayTeja21&theme=radical"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UdayTeja21&theme=radical&utcOffset=5.5"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayTeja21&theme=radical&hide_border=true&layout=compact&cache_seconds=1800" height="150em"/>
 </p>
 
 ---
@@ -128,7 +110,7 @@ Full Stack Developer with expertise in the MERN stack, focused on building scala
 
 # 👀 Profile Views:
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=UdayTeja21&icon=0&color=1"/>
+  <img src="https://komarev.com/ghpvc/?username=UdayTeja21&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
