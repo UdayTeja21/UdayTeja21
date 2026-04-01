@@ -74,11 +74,11 @@ Full Stack Developer with expertise in the MERN stack, focused on building scala
 ---
 
 # 🔝 Featured Project
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/UdayTeja21/Internship_Infosys_2025_Civix_Team_01">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=UdayTeja21&repo=Internship_Infosys_2025_Civix_Team_01&theme=radical&hide_border=true"/>
   </a>
-</p>
+</p> -->
 
 ### 🏆 Civix – Digital Civic Engagement Platform
 - Built a scalable MERN stack platform used by **500+ users**
@@ -90,13 +90,15 @@ Full Stack Developer with expertise in the MERN stack, focused on building scala
 
 # 📊 GitHub Stats:
 
+# 📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdayTeja21&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UdayTeja21&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
   <img src="https://streak-stats.demolab.com?user=UdayTeja21&theme=radical&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayTeja21&theme=radical&hide_border=true&layout=compact&cache_seconds=1800" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayTeja21&theme=radical&hide_border=true&layout=compact" height="150em"/>
 </p>
 
 ---
