@@ -9,14 +9,14 @@
 
 # 💫 About Me
 
-Full Stack Developer with expertise in MERN Stack, Java, Spring Boot, Cloud, and AI-powered applications. Passionate about building scalable products, optimizing performance, and creating real-world solutions using modern technologies.
+Full Stack Developer passionate about building scalable web applications, AI-powered products, and cloud-native solutions.
 
-* 🎓 B.Tech CSE – Aditya Engineering College
-* 💻 Full Stack Developer
-* ☕ Java & Spring Boot Developer
-* 🤖 AI Application Builder
-* ☁️ AWS Cloud Enthusiast
-* 🚀 Open To Work
+- 🎓 B.Tech CSE – Aditya Engineering College
+- 💻 Full Stack Developer
+- ☕ Java & Spring Boot Developer
+- 🤖 AI Application Builder
+- ☁️ AWS Cloud Enthusiast
+- 🚀 Open To Work
 
 ---
 
@@ -33,29 +33,28 @@ Full Stack Developer with expertise in MERN Stack, Java, Spring Boot, Cloud, and
 
 # 🚀 Tech Stack
 
-### 💻 Languages
+<p align="center">
 
-Java • JavaScript • Python • C
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 
-### 🎨 Frontend
-
-React.js • Next.js • TypeScript • Tailwind CSS • Bootstrap
-
-### ⚙️ Backend
-
-Node.js • Express.js • Spring Boot • REST APIs • JWT
-
-### 🗄️ Databases
-
-MongoDB • MySQL • PostgreSQL
-
-### ☁️ Cloud & DevOps
-
-AWS • Docker • Git • GitHub • GitHub Actions • CI/CD
-
-### 🤖 AI & Emerging Tech
-
-OpenAI • Gemini • LangChain • Prompt Engineering • RAG
+</p>
 
 ---
 
@@ -102,76 +101,60 @@ OpenAI • Gemini • LangChain • Prompt Engineering • RAG
 
 # 🚀 Featured Projects
 
-### 🤖 IntelliHire AI
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdayTeja21&repo=IntelliHire-AI&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdayTeja21&repo=Carbon-Time-Machine&theme=radical&hide_border=true" />
+</p>
 
-AI Resume Analyzer, ATS Scoring & Mock Interview Platform
+### 🌟 Project Highlights
 
-### 🌍 Carbon Time Machine
-
-AI-Powered Carbon Intelligence & Sustainability Platform
-
-### 🏛️ Civix
-
-Digital Civic Engagement & Smart Governance Platform
-
-### 🌾 Farmers Touch
-
-AI-Powered Agriculture Assistant | Smart India Hackathon Project
-
-### 🛒 GoGrocery
-
-Smart Grocery Delivery Platform with Real-Time Tracking
+- 🤖 IntelliHire AI — AI Resume Analyzer & Mock Interview Platform
+- 🌍 Carbon Time Machine — AI-Powered Carbon Intelligence Platform
+- 🏛️ Civix — Digital Civic Engagement Platform
+- 🌾 Farmers Touch — AI Agriculture Assistant
+- 🛒 GoGrocery — Smart Grocery Delivery Platform
 
 ---
 
 # 🏆 Achievements
 
-* 🥇 Smart India Hackathon 2024 Shortlisted Team
-* 💻 210+ DSA Problems Solved
-* ⭐ 5★ Python, 5★ C++, 4★ Java on HackerRank
-* 🚀 Multiple Full Stack Applications Deployed
-* 🤖 AI & Cloud Application Development Experience
+- 🥇 Smart India Hackathon 2024 Shortlisted Team
+- 💻 210+ DSA Problems Solved
+- ⭐ 5★ Python, 5★ C++, 4★ Java
+- 🚀 Multiple Full Stack Applications Deployed
 
 ---
 
 # 📜 Certifications
 
-* Google Cloud Digital Transformation
-* IBM Python for Data Science
-* Infosys Springboard RPA
-* NPTEL Cloud Computing
-* Pearson Java Certification
-* HackerRank CSS Skills Certification
+- Google Cloud Digital Transformation
+- IBM Python for Data Science
+- Infosys Springboard RPA
+- NPTEL Cloud Computing
+- Pearson Java Certification
 
 ---
 
 # 🤖 Currently Exploring
 
-* Agentic AI
-* RAG Applications
-* Spring Boot Microservices
-* System Design
-* AWS Architecture
-* Docker & CI/CD
-* Scalable SaaS Platforms
+- Agentic AI
+- RAG Applications
+- Spring Boot Microservices
+- System Design
+- AWS Architecture
+- Docker & CI/CD
 
 ---
 
 # 💼 Open To Opportunities
 
-✅ Software Engineer
-
-✅ Full Stack Developer
-
-✅ Java Developer
-
-✅ Frontend Developer (React.js / Next.js)
-
-✅ Associate Software Engineer
+✅ Software Engineer  
+✅ Full Stack Developer  
+✅ Java Developer  
+✅ Frontend Developer  
+✅ Associate Software Engineer  
 
 📍 Open To Relocation Across India
-
-📍 Immediate Joiner
 
 ---
 
@@ -185,7 +168,3 @@ Smart Grocery Delivery Platform with Real-Time Tracking
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
-
-<p align="center">
-Full Stack Developer • Java Developer • AI Builder • Cloud Enthusiast
-</p>
