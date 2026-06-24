@@ -1,32 +1,33 @@
+
 <h1 align="center">Hi 👋, I'm Uday Teja</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | AI | AWS | Spring Boot</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Specialist;Java+%26+Spring+Boot+Developer;Building+Scalable+Apps;AI+%2B+Cloud+Enthusiast;Open+To+Work&center=true&width=700&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Java+%26+Spring+Boot+Developer;AI+Application+Builder;Cloud+Enthusiast;Open+To+Work&center=true&width=700&height=45">
 </p>
 
 ---
 
 # 💫 About Me
 
-Full Stack Developer passionate about building scalable web applications, AI-powered products, and cloud-native solutions.
+Computer Science graduate and Full Stack Developer building scalable applications using React.js, Node.js, Spring Boot, AI, and Cloud technologies.
 
-- 🎓 B.Tech CSE – Aditya Engineering College
+- 🎓 B.Tech CSE | Aditya Engineering College
 - 💻 Full Stack Developer
 - ☕ Java & Spring Boot Developer
 - 🤖 AI Application Builder
-- ☁️ AWS Cloud Enthusiast
+- ☁️ AWS & Cloud Enthusiast
 - 🚀 Open To Work
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://uday-portfolio.base44.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/uday-teja-248664245/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/UdayTeja21"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:udayteja3104@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:gajulavenkataudayteja@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -42,17 +43,28 @@ Full Stack Developer passionate about building scalable web applications, AI-pow
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-blue?style=for-the-badge"/>
 
 </p>
 
@@ -61,8 +73,8 @@ Full Stack Developer passionate about building scalable web applications, AI-pow
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=UdayTeja21&show_icons=true&theme=radical&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayTeja21&layout=compact&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=UdayTeja21&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayTeja21&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -101,27 +113,23 @@ Full Stack Developer passionate about building scalable web applications, AI-pow
 
 # 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdayTeja21&repo=IntelliHire-AI&theme=radical&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdayTeja21&repo=Carbon-Time-Machine&theme=radical&hide_border=true" />
-</p>
+### 🤖 IntelliHire AI
+Enterprise AI Recruitment Platform with ATS scoring, AI Mock Interviews, recruiter analytics and resume intelligence.
 
-### 🌟 Project Highlights
+### 🌍 Carbon Time Machine
+AI-powered Carbon Intelligence Platform that tracks emissions, visualizes environmental impact, and generates sustainability recommendations.
 
-- 🤖 IntelliHire AI — AI Resume Analyzer & Mock Interview Platform
-- 🌍 Carbon Time Machine — AI-Powered Carbon Intelligence Platform
-- 🏛️ Civix — Digital Civic Engagement Platform
-- 🌾 Farmers Touch — AI Agriculture Assistant
-- 🛒 GoGrocery — Smart Grocery Delivery Platform
+### 🏥 MediFlow
+Enterprise Healthcare Workflow Management System built using React, Spring Boot, MySQL and Docker with role-based access control.
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 Smart India Hackathon 2024 Shortlisted Team
-- 💻 210+ DSA Problems Solved
+- 🥇 Top 200 Teams in Smart India Hackathon 2024
+- 💻 Solved 210+ DSA Problems
 - ⭐ 5★ Python, 5★ C++, 4★ Java
-- 🚀 Multiple Full Stack Applications Deployed
+- 🚀 Built multiple production-ready platforms
 
 ---
 
@@ -135,36 +143,18 @@ Full Stack Developer passionate about building scalable web applications, AI-pow
 
 ---
 
-# 🤖 Currently Exploring
-
-- Agentic AI
-- RAG Applications
-- Spring Boot Microservices
-- System Design
-- AWS Architecture
-- Docker & CI/CD
-
----
-
 # 💼 Open To Opportunities
 
-✅ Software Engineer  
-✅ Full Stack Developer  
-✅ Java Developer  
-✅ Frontend Developer  
-✅ Associate Software Engineer  
-
-📍 Open To Relocation Across India
+Software Engineer • Full Stack Developer • Java Developer • Frontend Developer
 
 ---
 
 # 🤝 Let's Connect
 
 <p align="center">
-<a href="mailto:udayteja3104@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/uday-teja-248664245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://uday-portfolio.base44.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/UdayTeja21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/uday-teja-248664245/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/UdayTeja21"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://uday-portfolio.base44.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
